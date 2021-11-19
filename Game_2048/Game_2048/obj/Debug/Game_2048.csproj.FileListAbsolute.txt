@@ -1,0 +1,30 @@
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\bin\Debug\Game_2048.exe.config
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\MainWindow.g.cs
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\App.g.cs
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048_MarkupCompile.cache
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048_MarkupCompile.lref
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\MainWindow.baml
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.g.resources
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\AКАДЕМИЯ шаг\1_D_Домашняя работа\6_WPF\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\bin\Debug\Game_2048.exe.config
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.csprojAssemblyReference.cache
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\MainWindow.g.cs
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\App.g.cs
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048_MarkupCompile.cache
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048_MarkupCompile.lref
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\MainWindow.baml
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.g.resources
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.cache
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.CoreCompileInputs.cache
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\1_github\Старт игра\DZ_game_2048\Game_2048\Game_2048\obj\Debug\Game_2048.pdb

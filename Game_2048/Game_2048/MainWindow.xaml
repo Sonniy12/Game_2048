@@ -1,0 +1,55 @@
+﻿<Window x:Class="Game_2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game_2048"
+        mc:Ignorable="d"
+        Title="MainWindow"  Height="600" Width="900" MaxWidth="1000" MaxHeight="700" WindowStyle="ToolWindow" >
+    <Canvas Height="430" Width="410">
+        
+        <Label Canvas.Top="-40" Canvas.Right="-150" FontWeight="Bold" FontSize="25">Score</Label>
+        <TextBlock x:Name="Show_score" Canvas.Right="-170" Height="200" Width="130" FontWeight="Bold" FontSize="25"></TextBlock>
+        <Button x:Name="up_Button"  Canvas.Top="-40" Width="400" Height="40" Content="Up" FontWeight="Bold" FontSize="25" Background="Lavender" Click="Up_Button_Click_1"  />
+        <Button x:Name="left_Button" Canvas.Left="-40" Width="40" Height="400" Content="L"  FontWeight="Bold" FontSize="25" Background="Lavender" Click="Left_Button_Click"/>
+        <Button x:Name="right_Button" Canvas.Right="-30" Width="40" Height="400" Content="R"  FontWeight="Bold" FontSize="25" Background="Lavender" Click="Right_Button_Click"/>
+        <Button x:Name="down_Button" Canvas.Bottom="-10" Width="400" Height="40" Content="Down" FontWeight="Bold" FontSize="25" Background="Lavender" Click="Down_Button_Click" />
+        <Grid Height="400" Width=" 400" ShowGridLines="True" x:Name="Grid_game" >
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name ="block1" Grid.Column="0" Grid.Row="0" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White">
+            </TextBlock>
+            <TextBlock x:Name ="block2" Grid.Column="1" Grid.Row="0" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block3" Grid.Column="2" Grid.Row="0" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block4" Grid.Column="3" Grid.Row="0" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+
+            <TextBlock x:Name ="block5" Grid.Column="0" Grid.Row="1" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block6" Grid.Column="1" Grid.Row="1" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block7" Grid.Column="2" Grid.Row="1" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block8" Grid.Column="3" Grid.Row="1" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+
+            <TextBlock x:Name ="block9" Grid.Column="0" Grid.Row="2" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block10" Grid.Column="1" Grid.Row="2" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block11" Grid.Column="2" Grid.Row="2" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block12" Grid.Column="3" Grid.Row="2" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+
+            <TextBlock x:Name ="block13" Grid.Column="0" Grid.Row="3" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block14" Grid.Column="1" Grid.Row="3" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block15" Grid.Column="2" Grid.Row="3" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White"/>
+            <TextBlock x:Name ="block16" Grid.Column="3" Grid.Row="3" FontSize="30" TextAlignment="Center" Background="Gray" FontWeight="Bold" Padding="30" Foreground="White" />
+
+        </Grid>
+    </Canvas>
+   
+</Window>
